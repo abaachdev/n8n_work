@@ -17,7 +17,7 @@ public class TondeuseController {
 	@GetMapping("test")
 	public ResponseEntity<String>  test() throws IOException {
 			
-        return ResponseEntity.ok("test ok ") ;
+        return ResponseEntity.ok("test n8n") ;
 			
 	}
 	
